@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Paul P</h1>
-<h3 align="center">A tech enthusiastic.</h3>
+<h3 align="center">A tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpaul08&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpaul08" /> </p>
 
