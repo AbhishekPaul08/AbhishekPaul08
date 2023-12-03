@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asp0078055@gmail.com**
 
-- ⚡ Fun fact **I play guitar in my free time.**
+- ⚡ Fun fact **I love Barre chords.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
