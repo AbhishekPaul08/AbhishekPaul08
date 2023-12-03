@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep learning**
 
-- 🌱 I’m currently learning **M.E.R.N stack**
+- 🌱 I’m currently learning **GOLANG**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
